@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Premain-Class: com.github.giveme0101.AgentMain0
+Built-By: romens
+Agent-Class: com.github.giveme0101.AgentMain0
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Class-Path: lib/javassist-3.27.0-GA.jar
+Created-By: Apache Maven 3.6.3
+Build-Jdk: 1.8.0_161
